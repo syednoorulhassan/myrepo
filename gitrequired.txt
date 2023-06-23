@@ -1,0 +1,4 @@
+this file contains all the information required for authentication of git.
+this includes the username password 
+after this we have to generate a token in order to push the changes onto a remote directory
+the generated token will be used as a password
