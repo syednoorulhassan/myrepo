@@ -6,4 +6,4 @@ the generated token will be used as a password
 dummychanges
 new changes have been added
 
-added new change 2
+added new change
